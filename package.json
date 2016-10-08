@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/sbj42/maze-generator-demo#readme",
   "dependencies": {
-    "@sbj42/maze-generator": "^1.1.0",
+    "@sbj42/maze-generator": "^2.0.0",
     "@sbj42/maze-generator-backtrack": "^0.1.0",
     "@sbj42/maze-generator-prim": "^0.1.0"
   },
